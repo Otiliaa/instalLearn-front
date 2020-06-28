@@ -34,8 +34,8 @@ const styles = {
   },
   delete: {
     position: 'relative',
-    top: '0px',
-    right: '0px'
+    top: '-15px',
+    right: '-20px'
   }
 };
 
